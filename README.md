@@ -21,7 +21,7 @@ I am available for commissions and remain at your disposal to provide further in
 
 <div align="center">
 
-### What I Do
+### [ + ] What I Do
 
 | 🎨 Digital Art | 💻 Development |
 |:---:|:---:|
@@ -33,7 +33,7 @@ I am available for commissions and remain at your disposal to provide further in
 
 ---
 
-## Technology Stack
+## [ + ] Technology Stack
 
 <div align="center">
 
@@ -57,7 +57,7 @@ I am available for commissions and remain at your disposal to provide further in
 
 ---
 
-## Current Focus & Skills
+## [ + ] Current Focus & Skills
 
 <div align="center">
 
@@ -91,7 +91,7 @@ Ruby               ███████████░░░░░░  70%
 
 ---
 
-## Upcoming Projects
+## [ + ] Upcoming Projects
 
 <div align="center">
 
@@ -117,7 +117,7 @@ Ruby               ███████████░░░░░░  70%
 
 ---
 
-## 🤝 Connect & Collaborate
+## [ + ] Contact me
 
 <div align="center">
 
