@@ -1,113 +1,186 @@
-<p align="center">
-  <img src="https://i.postimg.cc/FFZN3hbB/JAIIRED.png" alt="Banner"/>
-</p>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Front-end+Web+Developer+%7C+Artist;Open+for+Commissions" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:7B3FF2,100:C084FC&height=260&section=header&text=Jaiired&fontSize=80&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Digital%20Artist%20%C2%B7%20Pluginner&descAlignY=60&descSize=22&animation=fadeIn" width="100%" alt="Header Banner" />
 
+<br />
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-6366F1?style=for-the-badge)](https://www.github.com/jaiired-gh)
-[![GitHub followers](https://img.shields.io/github/followers/jaiired-gh?style=for-the-badge&logo=github&color=181717)](https://github.com/jaiired-gh)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=720&lines=Welcome%20to%20my%20GitHub%20profile!;Explore%20my%20repositories;Join%20my%20Discord!" alt="Typing SVG" />
+</a>
+<br>
+<img src="https://img.shields.io/badge/Available%20for%20collaborations-C084FC?style=for-the-badge&labelColor=1A0B2E&logo=handshake&logoColor=C084FC" height="32" alt="Available" />
 
 </div>
 
 ---
 
-## [ + ] About Me
-
-My name is Jaiired and I am a front-end developer and artist.
-I am available for commissions and remain at your disposal to provide further information about my services and projects currently in development.
+## Social
 
 <div align="center">
 
-### [ + ] What I Do
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Jaiired_)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Jaiired_X)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@jaiired_acc)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wQqwptYVZS)
 
-| 🎨 Digital Art | 💻 Development |
-|:---:|:---:|
-| Illustrations | Interactive Websites |
-| Character Design | Front-end Architecture |
-| Animation | UI/UX Implementation |
+[![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/user/Jaiired)
+[![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white)](https://www.spigotmc.org/members/jaiired_plugins.2422869/)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/jaiired)
 
 </div>
 
 ---
 
-## [ + ] Technology Stack
+## Profile
 
-<div align="center">
+<table>
+<tr>
+<td width="65%" valign="middle">
 
-### Art & Design Tools
+<h3> Hey, I'm <strong>Jaiired!</strong></h3>
 
-![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
+I'm a software developer and digital artist. I spend most of my time online, where I share a variety of public code and projects, both here on GitHub and on my Discord server.
 
-### Programming Languages
+I'm currently working on several software projects, including two major ones: 1920: BloodVeil, a detective puzzle game featuring 2D assets over 3D backgrounds with dialogue-driven investigation, and Downward Heaven, a 2D animated series with a story centered around social class.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+If you're interested and want to learn more, visit my website: [Coming soon...]
 
-### Markup Languages
+```yaml
+name:       Jaiired
+github:     Jaiired-gh
+role:       Software Developer / Artist
+location:   Italy
+Favorite Design:    Frutiger Aero / Webcore aesthetic
+```
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+</td>
+<td width="35%" valign="middle" align="center">
 
-</div>
+<img src="https://i.postimg.cc/Gp5MGdzj/92CC8443-427E-47B0-B336-460859931BE7.png" width="270" alt="Jaiired" style="border-radius: 14px;" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## [ + ] Current Focus & Skills
+## Stack
+
+### Main Languages
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%">
 
-#### Creative Skills
-```text
-Illustration       ███████████████░░  90%
-Animation          ██████░░░░░░░░░░░  45%
-Character Design   █████████████░░░░  85%
-```
-
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="65" height="65" alt="Python" />
+<br /><sub><b>Python</b></sub>
 </td>
-<td width="50%">
 
-#### Technical Skills
-```text
-JavaScript         ████████████████░  95%
-HTML/CSS           ████████████████░  95%
-Python             █████████████░░░░  80%
-Ruby               ███████████░░░░░░  70%
-```
-
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="65" height="65" alt="Java" />
+<br /><sub><b>Java</b></sub>
 </td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="65" height="65" alt="JavaScript" />
+<br /><sub><b>JavaScript</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="65" height="65" alt="Kotlin" />
+<br /><sub><b>Kotlin</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/gradle/02303A" width="65" height="65" alt="Gradle" />
+<br /><sub><b>Gradle</b></sub>
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="65" height="65" alt="C++" />
+<br /><sub><b>C++</b></sub>
+</td>
+
 </tr>
 </table>
 
 </div>
 
----
-
-## [ + ] Upcoming Projects
+### Full Ecosystem
 
 <div align="center">
 
 <table>
-<td align="center" width="50%">
+<tr>
 
-### VAULTSHIELD
-<img src="https://img.shields.io/badge/Status-Concept-yellow?style=flat-square" alt="Status"/>
+<td align="center" width="200">
+<b>Frontend</b>
+<br /><br />
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="34" height="34" alt="HTML5" />
+<img src="https://cdn.simpleicons.org/css/1572B6" width="34" height="34" alt="CSS" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="34" height="34" alt="React" />
+</td>
 
-**Your vault, in your OS**<br>
-- Easy to use
-- Not connected online or to external databases
-- save everything on your computer
-- more...
+<td align="center" width="200">
+<b>Backend</b>
+<br /><br />
+<img src="https://cdn.simpleicons.org/php/777BB4" width="34" height="34" alt="PHP" />
+</td>
 
-<img src="https://img.shields.io/badge/Planned_Release-X-6366F1?style=flat-square"/>
+<td align="center" width="200">
+<b>Database</b>
+<br /><br />
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="34" height="34" alt="MySQL" />
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="34" height="34" alt="PostgreSQL" />
+</td>
+
+<td align="center" width="200">
+<b>Tools & DevOps</b>
+<br /><br />
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="34" height="34" alt="Linux" />
+<img src="https://cdn.simpleicons.org/git/F05032" width="34" height="34" alt="Git" />
+<img src="https://cdn.simpleicons.org/cloudflare/F38020" width="34" height="34" alt="Cloudflare" />
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<h3 align="center">Crypta</h3>
+
+<p align="center"><em>A Windows 11–style UI software for end-to-end encrypted chats, with secure deletion of data and conversations.</em></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyQt-41CD52?style=flat-square&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Cryptography-3D3D3D?style=flat-square&logo=letsencrypt&logoColor=white" />
+</p>
+
+- User interface in **Windows 11** style
+- **End-to-end encryption** for messages
+- **Permanent deletion** of chats and associated data
+- Privacy-first: no data stored server-side
+
+<br />
+
+<p align="center">
+<a href="https://github.com/Jaiired-gh">
+  <img src="https://img.shields.io/badge/Coming%20Soon...-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
 
 </td>
 </tr>
@@ -117,17 +190,33 @@ Ruby               ███████████░░░░░░  70%
 
 ---
 
-## [ + ] Contact me
+## Contact Me
 
 <div align="center">
 
-### Contact me
+<h3>Got an idea, a question, or want to collaborate?</h3>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaiiredonline@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/szdSrmZMrB)
+<p>Reach out directly via Gmail; I'll reply as soon as I can.</p>
+
+<br />
+
+<a href="mailto:jaiiredonline@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me%20on%20Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A0B2E" height="56" alt="Email Me on Gmail" />
+</a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%"/>
+---
+
+<div align="center">
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=Jaiired-gh&label=Profile%20Views&color=C084FC&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Jaiired-gh?label=Followers&style=for-the-badge&color=C084FC&labelColor=1A0B2E" alt="Followers" />
+
+<br /><br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:7B3FF2,100:C084FC&height=140&section=footer" width="100%" alt="Footer" />
 
 </div>
